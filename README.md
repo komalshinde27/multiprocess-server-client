@@ -1,1 +1,1 @@
-multi process server handing concurrent clients
+This repository contains an example of server handing concurrent clients
